@@ -1,0 +1,12 @@
+C:\Users\FABIO\source\repos\ControleEstoque\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\FABIO\source\repos\ControleEstoque\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\FABIO\source\repos\ControleEstoque\DAL\bin\Debug\DAL.dll
+C:\Users\FABIO\source\repos\ControleEstoque\DAL\bin\Debug\DAL.pdb
+C:\Users\FABIO\source\repos\ControleEstoque\DAL\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\FABIO\source\repos\ControleEstoque\DAL\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\FABIO\source\repos\ControleEstoque\DAL\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\FABIO\source\repos\ControleEstoque\DAL\bin\Debug\Modelo.dll
+C:\Users\FABIO\source\repos\ControleEstoque\DAL\bin\Debug\Modelo.pdb
+C:\Users\FABIO\source\repos\ControleEstoque\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\FABIO\source\repos\ControleEstoque\DAL\obj\Debug\DAL.dll
+C:\Users\FABIO\source\repos\ControleEstoque\DAL\obj\Debug\DAL.pdb

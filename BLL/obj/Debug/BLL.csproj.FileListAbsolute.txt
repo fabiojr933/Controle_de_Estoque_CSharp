@@ -1,0 +1,16 @@
+C:\Users\FABIO\source\repos\ControleEstoque\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\FABIO\source\repos\ControleEstoque\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\FABIO\source\repos\ControleEstoque\BLL\bin\Debug\BLL.dll
+C:\Users\FABIO\source\repos\ControleEstoque\BLL\bin\Debug\BLL.pdb
+C:\Users\FABIO\source\repos\ControleEstoque\BLL\bin\Debug\DAL.dll
+C:\Users\FABIO\source\repos\ControleEstoque\BLL\bin\Debug\Ferramentas.dll
+C:\Users\FABIO\source\repos\ControleEstoque\BLL\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\FABIO\source\repos\ControleEstoque\BLL\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\FABIO\source\repos\ControleEstoque\BLL\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\FABIO\source\repos\ControleEstoque\BLL\bin\Debug\Modelo.dll
+C:\Users\FABIO\source\repos\ControleEstoque\BLL\bin\Debug\DAL.pdb
+C:\Users\FABIO\source\repos\ControleEstoque\BLL\bin\Debug\Ferramentas.pdb
+C:\Users\FABIO\source\repos\ControleEstoque\BLL\bin\Debug\Modelo.pdb
+C:\Users\FABIO\source\repos\ControleEstoque\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\FABIO\source\repos\ControleEstoque\BLL\obj\Debug\BLL.dll
+C:\Users\FABIO\source\repos\ControleEstoque\BLL\obj\Debug\BLL.pdb

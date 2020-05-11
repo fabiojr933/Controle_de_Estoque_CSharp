@@ -1,0 +1,4 @@
+DESKTOP-3EPT6BV\SQLEXPRESS
+ControleDeEstoque
+fabio
+12345678

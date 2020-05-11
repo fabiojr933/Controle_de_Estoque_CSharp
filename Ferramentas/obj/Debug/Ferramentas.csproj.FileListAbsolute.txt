@@ -1,0 +1,9 @@
+C:\Users\FABIO\source\repos\ControleEstoque\Ferramentas\bin\Debug\Ferramentas.dll
+C:\Users\FABIO\source\repos\ControleEstoque\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\FABIO\source\repos\ControleEstoque\Ferramentas\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\FABIO\source\repos\ControleEstoque\Ferramentas\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\FABIO\source\repos\ControleEstoque\Ferramentas\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\FABIO\source\repos\ControleEstoque\Ferramentas\obj\Debug\Ferramentas.csproj.CoreCompileInputs.cache
+C:\Users\FABIO\source\repos\ControleEstoque\Ferramentas\obj\Debug\Ferramentas.csproj.CopyComplete
+C:\Users\FABIO\source\repos\ControleEstoque\Ferramentas\obj\Debug\Ferramentas.dll
+C:\Users\FABIO\source\repos\ControleEstoque\Ferramentas\obj\Debug\Ferramentas.pdb

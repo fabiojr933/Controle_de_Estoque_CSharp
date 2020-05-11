@@ -1,0 +1,10 @@
+C:\Users\FABIO\source\repos\ControleEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\FABIO\source\repos\ControleEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\FABIO\source\repos\ControleEstoque\Modelo\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\FABIO\source\repos\ControleEstoque\Modelo\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\FABIO\source\repos\ControleEstoque\Modelo\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\FABIO\source\repos\ControleEstoque\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\FABIO\source\repos\ControleEstoque\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+C:\Users\FABIO\source\repos\ControleEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\FABIO\source\repos\ControleEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\FABIO\source\repos\ControleEstoque\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
